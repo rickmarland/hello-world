@@ -1,2 +1,4 @@
 # hello-world
-Juat another repository
+Just another repository
+
+Hi Github
